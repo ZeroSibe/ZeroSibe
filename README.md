@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋 
+I'm ZeroSibe...
 
+👀 keep a lookout, 
+I'm currently working on something cool 🌱
+😶‍🌫️🐣🐥
 <!--
 **ZeroSibe/ZeroSibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
