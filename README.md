@@ -12,7 +12,7 @@
 
 #### Some Experience
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ### Socials
 
